@@ -1,0 +1,114 @@
+.nav-area {
+    background-color: rgba(17, 14, 14, 0.664) !important;
+
+}
+
+.nav-area a {
+    color: rgba(255, 255, 255, 0.63) !important;
+    transition: 0.5s;
+}
+
+.nav-area a:hover {
+    color: white !important;
+    font-size: 17px !important;
+    background-color: black;
+    transition: 0.5s;
+}
+
+.head-text {
+    width: 1200px;
+    height: 250px;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+    background-color: rgba(128, 128, 128, 0.082);
+    margin-top: 20px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 100px;
+
+}
+.head-text:hover{
+    box-shadow: 0 2px 5px 0 rgba(155, 18, 18, 0.637), 0 2px 10px 0 rgba(90, 9, 165, 0.12);
+}
+
+.head-text h1 {
+    font-size: 60px;
+}
+
+.head-text h5 {
+    font-size: 25px;
+}
+
+.textes {
+    padding-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header-text {
+    width: 391px;
+    height: 250px;
+    margin: 5px;
+    padding: 5px;
+
+
+}
+
+.vieww {
+    margin-top: 5px;
+}
+
+.btn-mtn {
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+
+.btn-mtn:hover {
+    background-color: rgb(207, 164, 164);
+    font-size: large;
+    color: black;
+    transition: 0.5s;
+
+}
+
+.txt1 {
+    margin-left: 0;
+    margin-right: 8px;
+}
+.header-text:hover{
+    box-shadow: 0 2px 5px 0 rgba(155, 18, 18, 0.637), 0 2px 10px 0 rgba(90, 9, 165, 0.12);
+}
+.txt4 {
+    margin-left: 0;
+    margin-right: 8px;
+}
+
+.txt2, .txt5 {
+    margin-right: 8px;
+
+}
+
+.w3-sidebar, .w3-bar-block .w3-card {
+
+    width: 250px !important;
+    background-color: rgba(128, 128, 128, 0.082);
+    height: 500px;
+    margin-right: 80px;
+}
+
+.linkkk a {
+    color: blue !important;
+}
+
+.w3-sidebar, .w3-bar-block .w3-card h3 {
+    color: black !important;
+
+}
+.w3-sidebar:hover{
+    box-shadow: 0 2px 5px 0 rgba(155, 18, 18, 0.637), 0 2px 10px 0 rgba(90, 9, 165, 0.12);
+}
+
+
+.coppy {
+    background-color: white;
+}
